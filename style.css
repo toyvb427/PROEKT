@@ -1,0 +1,90 @@
+body {
+    font-family: sans-serif;
+background-color: black;
+}
+.h{
+
+color: rgb(111, 0, 255);
+text-align: center;
+border: 10px solid rgb(133, 9, 200);
+font-size: 40px;
+}
+p{
+text-align: center;
+font-size: 20px;
+color: cornflowerblue;
+}
+.hR{
+
+color: rgb(255, 255, 255);
+text-align: center;
+
+font-size: 30px;
+}
+img{
+width: 500px;
+
+
+}
+.o{
+color: rgb(121, 241, 15);
+font-size: 15px ;
+}
+.rpdm{
+width: 120px;
+bottom: 30px;
+}
+.HARD{
+width: 350px;
+
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin: 20px;
+    padding: 20px;
+    background-color: navy;
+    border-radius: 20px;
+  
+   
+}
+.kartinka{
+width: 100px;
+
+
+}
+
+.kartink{
+width: 50px;
+
+
+}
+a:hover{
+transition: 3s background-color linear;
+background-color: blueviolet;
+}
+.c{
+color: rgb(20, 211, 39);
+font-size: 14px;
+}
+.reklama{
+position: fixed;
+top: 23px;
+right: 0px;
+background-color: #850AE5;
+width: 115px;
+text-align: center;
+}
+.rpd{
+width: 40px;
+
+
+}
+.rp{
+width: 300px;
+
+}
